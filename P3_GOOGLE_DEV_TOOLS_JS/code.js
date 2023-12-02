@@ -11,4 +11,10 @@
 
 //Pestaña application: Application; Storage; Caché; Background Services; Frames
 
-//aaaaaaa
+//Desde Soruces, puedes ver los archivos y no solo eso, sino que también si así se prefiere, se pueden modificar y aparte agregarlas a tu workspace para que desde ahí realices cambios y desde ahí mismo se guarde en tus archivos locales
+
+//Desde Network se puede ver todo lo que se carga, así mismo se visualiza el performance de l página, en el aspecto de que se puede ver cuánto tarda en cargar cada archivo y cuánto tarda en cargar la página; así mismo se pueden hacer más opciones como bloquear cierto archivo para que no cargue, borrar la caché o las cookies, etc.
+
+//Desde performance se puede grabar el performance de l página y después se le puede dar en recargar, para que así se capte lo que tarda en cargar la página
+
+//Desde application se pueden ver los recursos de la página, como scripts o ese tipo de cosas
