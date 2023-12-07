@@ -47,3 +47,16 @@ input:hover {
 #btn-enviar:hover {
     background: #370;
 }
+
+.resultado {
+    font-weight: 700;
+    /* font-size: 17px; */
+}
+
+.green {
+    color: #9c9;
+}
+
+.red {
+    color: #c55;
+}
