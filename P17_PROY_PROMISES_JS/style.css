@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+.materias {
+    width: 90%;
+    /* background: #ccc; */
+    /* padding: 2px; */
+    margin: 20px auto;
+}
+
+.materia {
+    background: #efefef;
+    display: flex;
+    border: 2px solid #ccc;
+}
+
+.materia div {
+    padding: 20px;
+}
+
+.materia .nombre {
+    flex-grow: 1; /* El flex-grow se indica por item y es el crecimiento que este tendrá dependiendo de la repartición del espacio */
+}
+
+.materia .nota {
+    flex-basis: 20px;
+    background: #ddd;
+    /* flex-grow: 1; */
+    text-align: center;
+    font-weight: bold;
+}
